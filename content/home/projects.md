@@ -74,3 +74,13 @@ subtitle = ""
  css_class = ""
 +++
 
+- 10/06/2019: Our paper on cluster scheduling has submitted (SoCC 2019)
+- 31/05/2019: Our paper on crosscloud API design has submitted (ICSOC 2019)
+- 27/05/2019: Our software copyright on edge scheduling has submitted 
+- 18/05/2019: Our paper on configuration optimization has submitted (Middleware 2019)
+- 22/04/2019: Our paper on cluster scheduling has submitted (ICPP 2019)
+- 19/03/2019: AIR17(Alibaba Innovative Research) has been summing-up.
+- 11/03/2019: Our patent on crosscloud API design has submitted to [SIPO](http://www.sipo.gov.cn/).
+- 05/03/2019: Cloudplus supports [jupyterhub](https://github.com/kubesys/kubeapp-ide)
+- 18/02/2019: Our paper on cluster scheduling has submitted (SIGMETRICS 2019)
+

@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Recent Posts"
+title = "Recent News"
 subtitle = ""
 
 [content]
@@ -65,3 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+- 19/5/2019: Our paper on cluster scheduling has been accepted by IPDPS 2019
+
+- 21/1/2019: Our paper on cluster scheduling has been accepted by IPDPS 2019
+
+- 15/1/2019: Our paper on crosscloud API design has been accepted by SOSE 2019
